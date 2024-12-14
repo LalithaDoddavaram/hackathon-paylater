@@ -1,0 +1,36 @@
+body{
+    float: left;
+
+    background-color: black;
+    
+}
+.main-div{
+    float: left;
+    width: 60%;
+    border: 2px solid rgb(210, 207, 207);
+    margin: 15% 0% 0% 45%;
+}
+.main-div button{
+    font-size: 50px;
+    text-align: center;
+    width: 70%;
+    border-radius: 10% 10% 10% 10%;
+    background-color: aqua;
+    color: black;
+    font-family: "Rubik Doodle Shadow", serif;
+    font-weight: 400;
+    margin: 2% 0% 5% 15%;
+}
+.heading{
+    float: left;
+    width: 60%;
+    margin: 0% 0% 0% 18%;
+}
+.heading h1{
+    float: left;
+    width: 100%;
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    margin: 10% 0% 0% 45%;
+    text-align: center;
+}
